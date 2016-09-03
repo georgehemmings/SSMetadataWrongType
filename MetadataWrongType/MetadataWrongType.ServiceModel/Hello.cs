@@ -23,6 +23,5 @@ namespace MetadataWrongType.ServiceModel
     public class HelloResponse
     {
         public string Result { get; set; }
-        public Types.Address FullHomeAddress { get; set; }
     }
 }
